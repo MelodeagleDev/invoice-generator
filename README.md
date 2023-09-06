@@ -9,7 +9,7 @@ https://swipe-invoice-generator.netlify.app/
 ### Installation
 
 ```
-git clone https://github.com/praveennegi420/invoice-generator
+git clone https://github.com/MelodeagleDev/invoice-generator
 
 npm install
 
@@ -17,4 +17,3 @@ npm start / npm run build
 
 ```
 
-For any other information react out to : praveennegiuk07@gmail.com
